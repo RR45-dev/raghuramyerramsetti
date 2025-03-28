@@ -1,42 +1,32 @@
-![MacBook Air - 2 (3)](https://user-images.githubusercontent.com/75136330/203812467-8b00176d-9d31-4c09-86c0-8b82b8c661eb.png)
-![127 0 0 1_5173_ (1)](https://user-images.githubusercontent.com/75136330/203812531-baeb4957-5c7d-4222-a07a-2805b278bdbf.png)
+# Project Name
 
-# React Portfolio 2
-### Vite + React + tailwind
+A brief description of your project.
 
-```bash 
-npm i
-npm run dev
-```
-## You Learn:
-+ react js hooks
-+ folder structure
-+ tailwind css
-+ swiper js
-+ react icons
-+ react js packages (ex:react-modal)
-+ email js
-+ aos scroll animation
-+ and more....
+## Installation
 
-## youtube video link
-[Watch now](https://youtu.be/YpFK4hUZ-NM)
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/yourrepository.git
+    ```
 
-## live preview link
-[See Now](https://codeaprogram-portfolio.web.app/)
+2. Navigate into your project directory:
+    ```bash
+    cd yourrepository
+    ```
 
-## Startup repository link
-[Repository](https://github.com/Sridhar-C-25/React_portfolio_2_startup)
+3. Install the dependencies:
+    ```bash
+    npm install
+    ```
 
-## packages:
-+ [tailwind css](https://tailwindcss.com/docs/installation)
-+ [vite js](https://vitejs.dev/guide/)
-+ [swiper js](https://swiperjs.com/get-started)
-+ [email js](https://www.emailjs.com/docs/)
-+ [Aos (animation)](https://michalsnik.github.io/aos/)
-+ [react modal](https://www.npmjs.com/package/react-modal)
-+ [react-hot-toast](https://react-hot-toast.com/docs)
-+ [react icons](https://react-icons.github.io/react-icons/)
+## Usage
 
+Describe how to run your project locally or any other relevant usage instructions.
 
+## Contributing
 
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Commit your changes (`git commit -am 'Add new feature'`)
+4. Push to the branch (`git push origin feature-branch`)
+5. Create a new Pull Request
