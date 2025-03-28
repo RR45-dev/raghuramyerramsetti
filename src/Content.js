@@ -46,7 +46,7 @@ import { TbSmartHome } from "react-icons/tb";
 import { BiUser } from "react-icons/bi";
 import { RiServiceLine, RiProjectorLine } from "react-icons/ri";
 import { MdOutlinePermContactCalendar } from "react-icons/md";
-import { GoMarkGithub } from "react-icons/go";
+
 import { CgCodeSlash } from "react-icons/cg";
 import { IoDiamondOutline } from "react-icons/io5";
 
@@ -277,7 +277,7 @@ export const content = {
       },
       {
         text: "RR45-dev",
-        icon: GoMarkGithub,
+        icon: GrMail,
         link: "https://github.com/RR45-dev",
       },
     ],
