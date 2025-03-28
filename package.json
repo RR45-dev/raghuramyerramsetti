@@ -8,8 +8,8 @@
     "dev": "vite --host",
     "build": "vite build",
     "preview": "vite preview",
-    "predeloy": "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@emailjs/browser": "^3.9.1",
